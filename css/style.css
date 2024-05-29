@@ -1,0 +1,117 @@
+.navbar{
+    padding: 10px 0;
+}
+
+.navbar h1{
+    color: red;
+    margin-right: 60%;
+}
+
+.sec1 img{
+    width: 50%;
+    height: 80vh;
+    border-radius: 190px 0 0 190px;
+}
+
+.sec1text{
+    width: 38%;
+    height: 80vh;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items:flex-start;
+    flex-direction: column;
+    position: relative;
+    padding-left: 11%;
+}
+
+.sec1 i{
+    background-color: red;
+    border-radius: 50px;
+    color: white;
+    position: absolute;
+    padding: 10px;
+    width: 14px;
+}
+
+
+.sec1a a{
+    margin: auto;
+    padding: 6px 15px;
+    border: none;
+}
+
+.sec1a2{
+    background-color: white;
+}
+
+.sec2{
+    padding: 3% 5%;
+}
+
+.sec2box{
+    padding: 0 18px;
+}
+
+.sec2box i{
+    padding: 8px;
+    border: 2px solid black;
+}
+
+.sec3 img{
+    width: 60%;
+    height: 70vh;
+}
+
+.sec3left{
+    width: 40%;
+    height: 70vh;
+    
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items:flex-start;
+    flex-direction: column;
+    position: relative;
+    padding-left: 11%;
+}
+.sec3 a{
+    padding: 7px 10px;
+
+}
+
+.sec4{
+    padding: 43px 0;
+    margin: 0 5%;
+}
+
+.sec4box {
+    flex-wrap: wrap;
+    margin: 0% 21%;
+}
+
+
+.sec4box1 img{
+    width: 90px;
+    height: 10vh;
+    margin: auto;
+    margin: 2% 34%;
+    margin-bottom: 35px;
+}
+
+.sec4box1{
+    padding: 35px 8px;
+    margin: 10px 10px;
+    background-color: aliceblue;
+    
+}
+
+.box4left{
+    margin-right:  50px;
+}
+
+
+
+.sec4box1 p{
+    font-size: smaller;
+}

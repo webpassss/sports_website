@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.flex-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pad10{
+    padding-right: 18px;
+}
+
+.list-none{
+    list-style: none;
+}
+
+.cursor-point{
+    cursor: pointer;
+}
+
+.text-none{
+    text-decoration: none;
+}
+
+.text-black{
+    color: black;
+}
+
+.text-white{
+    color: white;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.back-red{
+    background-color: red;
+}
+
+.flex-column{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.back-black{
+    background-color: black;
+}
